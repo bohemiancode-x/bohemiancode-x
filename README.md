@@ -22,7 +22,7 @@ I'm a FrontEnd web developer from Nigeria.
 <br />
 - 🔭 I’m currently working on various frontend projects to advance and improve my skills. Most of my designs are sourced from frontendmentor.io .. 
 I particularly love to work with APIs and databases like firebase.
-- 🌱 I’m currently learning Advanced React and other frameworks like Next.js and Nuxt.js.
+- 🌱 I’m currently learning Advanced React and other frameworks like Vue.js and Nuxt.js.
 - 📫 You can reach me through my social media profiles attached..
 
 ----
