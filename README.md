@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 -->
 I'm a FrontEnd web developer from Nigeria.
 <br />
-- 🔭 I’m currently working on various frontend projects to advance and improve my skills. Most of my designs are sourced from frontendmentor.io .. 
-I particularly love to work with APIs and databases like firebase.
-- 🌱 I’m currently learning Advanced React and other frameworks like Vue.js and Nuxt.js.
+- 🔭 I’m currently working on various frontend projects to advance and improve my skills. I am proficient with ReactJS, NextJS, TailwindCSS, Bootstrap, MUI and other similar libraries.
+- 🌱 I’m currently learning solidity for smart contracts. I'm open to learning any language, framework, skill or tool required to get the job done.
 - 📫 You can reach me through my social media profiles attached..
 
 ----
