@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a FrontEnd web developer from Nigeria.
+I'm a FrontEnd Engineer from Nigeria.
 <br />
 - 🔭 I’m currently working on various frontend projects to advance and improve my skills. I am proficient with ReactJS, NextJS, TailwindCSS, Bootstrap, MUI and other similar libraries.
 - 🌱 I’m currently learning solidity for smart contracts. I'm open to learning any language, framework, skill or tool required to get the job done.
