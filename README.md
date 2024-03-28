@@ -1,87 +1,38 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
-</div> 
+# 🧙🏽‍♂️ Emmanuel Adisa 
 
-### Hi there, I'm Emmanuel Ayo. 👋
+**`Web Developer / Software Engineer`**
 
-<!--
-**bohemiancode-x/bohemiancode-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a goal-driven frontend engineer focused on creating interactive digital experiences on the web and a passion to transform the digital world one line of code at a time. 
+📫 You can reach me [here](mailto:emmieaddiz@gmail.com)!
 
-Here are some ideas to get you started:
+----
+### 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a FrontEnd Engineer from Nigeria.
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-- 🔭 I’m currently working on various frontend projects to advance and improve my skills. I am proficient with ReactJS, NextJS, TailwindCSS, Bootstrap, MUI and other similar libraries.
-- 🌱 I’m currently learning solidity for smart contracts. I'm open to learning any language, framework, skill or tool required to get the job done.
-- 📫 You can reach me through my social media profiles attached..
 
+#
+
+<details>
+ <summary><h3>👨‍💻 Emmanuel's Coding Journey | Github stats </h3></summary>
+  I’ve always had a flair for numbers which encouraged me to study accounting in the university from 2016 to 2020. I picked up tutoring/ teaching after that. I taught related subjects like commerce, economics and accounting for a year before enrolling for the National youths service corps programme in Nigeria. The programme is a mandatory service to the government for fresh university graduates.
+During this programme, I rediscovered my love for problem-solving in programming and decided to delve into that. I enrolled in coding bootcamps and internships and took a couple of virtual courses aimed at developing frontend skills. This lasted for about a year after which I was able to take on contract jobs, freelance opportunities and also hackathons. I'm eager to take my background in finance, experience in programming and also leverage my unique perspective to develop software products with the goal of tackling ambiguous problems to deliver solutions that benefit the people around me through industries like Edutech, Infrastructure, IOT, Healthcare, Tech, and AI!
 ----
-<br/>
+<br/> 
 
-## My Skill Set  
-<table width="100%"><tr><td valign="top" width="50%">
-
-
-
-### Frontend  
-<div align="justify">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /><br><br>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /><br>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0AB6D3?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /><br><br>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />  
-<img alt="Material Ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />  
-<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-### Backend  
-<div align="justify">
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-</div>
-
-### Version Control and others
-<div align="justify">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</div>
-
-</tr></table>
-
-----
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/emmie_porsche" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/emmanueladisa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/bohemiancode-x" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-----
-<br/>  
+#
 
 ## Github Stats  
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bohemiancode-x&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
