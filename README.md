@@ -1,8 +1,31 @@
 # 🧙🏽‍♂️ Emmanuel Adisa 
 
-**`Web Developer / Software Engineer`**
+**`Product Engineer`**
 
-I’m a goal-driven frontend engineer focused on creating interactive digital experiences on the web and a passion to transform the digital world one line of code at a time. 
+I help startups and product teams move from ideas to shipped software through rapid prototyping, AI-augmented development, and end-to-end product delivery.
+
+Over the past 4+ years, I've worked across SaaS, B2B, fintech, and startup products, building customer-facing applications and helping turn product requirements into production-ready experiences.
+
+Frontend engineering remains my strongest area, but I'm comfortable contributing across product discovery, backend integrations, deployment workflows, and technical problem-solving whenever needed to keep delivery moving.
+
+Current Focus
+🚀 Building SaaS and AI-powered products
+⚡ AI-augmented development workflows
+🎨 Product-focused frontend engineering
+🏗️ Rapid prototyping and MVP development
+🤝 Startup execution and product delivery
+AI-Augmented Workflow
+
+My typical workflow combines product thinking, rapid prototyping, and AI-assisted development:
+
+Claude Design + Magic Patterns → Explore concepts and validate UX directions
+
+v0 → Rapidly scaffold interfaces and product ideas
+
+Cursor + Claude Code → Implement, iterate, and ship production-ready features
+
+The goal isn't simply to write code faster—it's to shorten feedback cycles, validate ideas earlier, and deliver customer value sooner.
+
 📫 You can reach me [here](mailto:emmieaddiz@gmail.com)!
 
 ----
@@ -26,9 +49,16 @@ I’m a goal-driven frontend engineer focused on creating interactive digital ex
 #
 
 <details>
- <summary><h3>👨‍💻 Emmanuel's Coding Journey | Github stats </h3></summary>
-  I’ve always had a flair for numbers which encouraged me to study accounting in the university from 2016 to 2020. I picked up tutoring/ teaching after that. I taught related subjects like commerce, economics and accounting for a year before enrolling for the National youths service corps programme in Nigeria. The programme is a mandatory service to the government for fresh university graduates.
-During this programme, I rediscovered my love for problem-solving in programming and decided to delve into that. I enrolled in coding bootcamps and internships and took a couple of virtual courses aimed at developing frontend skills. This lasted for about a year after which I was able to take on contract jobs, freelance opportunities and also hackathons. I'm eager to take my background in finance, experience in programming and also leverage my unique perspective to develop software products with the goal of tackling ambiguous problems to deliver solutions that benefit the people around me through industries like Edutech, Infrastructure, IOT, Healthcare, Tech, and AI!
+  <summary><h3>👨‍💻 Product Building Journey | GitHub Stats</h3></summary>
+
+My career started in Accounting & Finance, but I was ultimately drawn toward software because of the combination of problem-solving, creativity, and product building.
+
+Over the years I've worked across startups, freelance engagements, hackathons, and product teams, helping build SaaS applications, workflow automation platforms, fintech solutions, and customer-facing products.
+
+More recently, I've become increasingly interested in how AI is changing software development. As implementation becomes faster, I've found myself spending more time thinking about product decisions, delivery tradeoffs, user experience, and validation.
+
+Today, I think of myself as a Frontend-first Product Engineer: someone who uses strong frontend expertise, product thinking, and AI-augmented workflows to help teams move from ideas to shipped products.
+
 ----
 <br/> 
 
