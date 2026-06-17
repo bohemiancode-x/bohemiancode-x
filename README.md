@@ -1,6 +1,6 @@
 # 🧙🏽‍♂️ Emmanuel Adisa 
 
-**`Product Engineer`**
+**` Product Engineer | Frontend-first, not frontend-only. `**
 
 I help startups and product teams move from ideas to shipped software through rapid prototyping, AI-augmented development, and end-to-end product delivery.
 
