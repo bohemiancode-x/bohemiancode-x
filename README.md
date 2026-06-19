@@ -8,13 +8,15 @@ Over the past 4+ years, I've worked across SaaS, B2B, fintech, and startup produ
 
 Frontend engineering remains my strongest area, but I'm comfortable contributing across product discovery, backend integrations, deployment workflows, and technical problem-solving whenever needed to keep delivery moving.
 
-Current Focus
-🚀 Building SaaS and AI-powered products
-⚡ AI-augmented development workflows
-🎨 Product-focused frontend engineering
-🏗️ Rapid prototyping and MVP development
-🤝 Startup execution and product delivery
-AI-Augmented Workflow
+**Current Focus**
+
+* 🚀 Building SaaS and AI-powered products
+* ⚡ AI-augmented development workflows
+* 🎨 Product-focused frontend engineering
+* 🏗️ Rapid prototyping and MVP development
+* 🤝 Startup execution and product delivery
+
+**AI-Augmented Workflow**
 
 My typical workflow combines product thinking, rapid prototyping, and AI-assisted development:
 
